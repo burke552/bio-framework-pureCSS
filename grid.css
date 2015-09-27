@@ -1,0 +1,80 @@
+@charset "utf-8";
+p {
+  font-family: Arial;
+  color: #962712;
+  text-align: center;
+}
+
+body {
+  background-color: #FFFF66;
+}
+
+h1 {
+  font-family: Arial;
+  color: #962712;
+  text-align: center;
+}
+
+ul {
+   list-style-type: none;
+}
+
+u {
+  font-family: Times New Roman;
+  color: #0082de;
+}
+
+h2 {
+  font-family: Arial;
+  color: #962712;
+  text-align: center;
+}
+
+h3 {
+   font-family: Arial;
+   color: #962712;
+   text-align: center;
+}
+
+i {
+  font-family: Helvetica;
+  color: #ce82de;
+}
+
+img {
+   margin-right: auto;
+   margin-left: auto;
+   display: block;
+}
+
+4662W1,
+4662W1-1,
+4662W1-3,
+4662W2-3,
+4662W3-3 {
+    display: inline-block;
+    *display: inline;
+    zoom: 1;
+    letter-spacing: normal;
+    word-spacing: normal;
+    vertical-align: top;
+    text-rendering: auto;
+}
+
+4662W1-3 {
+    width: 33.3333%;
+    *width: 33.3023%;
+}
+
+4662W2-3 {
+    width: 66.6667%;
+    *width: 66.6357%;
+}
+
+4662W1,
+4662W1-1,
+4662W3-3 {
+    width: 100%;
+}
+
+
